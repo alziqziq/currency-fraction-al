@@ -1,3 +1,6 @@
+## Demo
+[Click here](https://alziqziq.github.io/demo-currencyfractional/).
+
 untuk menjalankan aplikasi ini :
 
 1. instal serve terlebih dahulu, dengan cara `sudo npm install -g serve`
